@@ -21,6 +21,6 @@ class CashRegister
   @total
 end
 
-def app
+def apply_
     
   
