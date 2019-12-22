@@ -1,2 +1,2 @@
 class CashRegister
-  attr_accessible :total
+  attr_accessible :total, :discount, :
