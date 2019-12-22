@@ -23,6 +23,6 @@ end
 
 def apply_discount()
   if discount > 0 
-    @discount = @discount/100.
+    @discount = @discount/100.to_f
     
   
