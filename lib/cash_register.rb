@@ -22,6 +22,7 @@ class CashRegister
 end
 
 def apply_discount()
-  if discount
+  if discount > 0 
+    
     
   
