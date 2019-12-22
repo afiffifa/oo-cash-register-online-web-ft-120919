@@ -1,3 +1,4 @@
 class CashRegister
-  attr_accessible :total, :discount, :last_transaction_amount, :item
+  attr_accessible :total, :discount, :last_transaction_amount, :items
+  
   
