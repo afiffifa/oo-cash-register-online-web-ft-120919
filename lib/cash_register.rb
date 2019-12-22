@@ -18,6 +18,6 @@ class CashRegister
   end
   @title += price*quantity
   @last_transaction_amount = @total
-  
+  @total
     
   
