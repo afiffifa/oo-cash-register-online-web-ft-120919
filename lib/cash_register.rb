@@ -30,6 +30,8 @@ def apply_discount()
     "There is no discount to apply."
   end
 end
+
+def void
     
     
   
